@@ -42,6 +42,6 @@ Available at;
 
 ### EDA
 
-### [Seaborn]([https://github.com/dinkwiz/tableau_embed?tab=readme-ov-file](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+### [Seaborn Visualisations](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
-### [Tableau]([https://github.com/dinkwiz/tableau_embed?tab=readme-ov-file](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+### [Tableau Dashboard](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

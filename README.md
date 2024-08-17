@@ -2,7 +2,7 @@
 
 There are two goals with this project;
 
-1. Create customer segmentation using the provided features.
+1. Build a model to segment customers into clusters using the provided features.
 2. Develop an interactive dashboard for stakeholders to explore and visualise customer clusters.
 
 ### Dataset
@@ -45,3 +45,5 @@ Available at;
 ### [Seaborn Visualisations](https://github.com/2024200/Project_3_test/tree/1d799c4bf551a465d4c9935d019226bddd052d9c/EDA)
 
 ### [Tableau Dashboard](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1512" alt="Screenshot 2024-08-17 at 20 28 42" src="https://github.com/user-attachments/assets/701cc2ae-d3c2-4054-9326-5e2f9f705ddc">

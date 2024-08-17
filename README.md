@@ -26,7 +26,7 @@ Available at;
 | --- | --- |
 | Collab | https://colab.research.google.com/drive/1dXLf6uabQtm_wddGR9DL5SLIp2VIP6AD?usp=sharing |
 | Kaggle | https://www.kaggle.com/code/jldoyle/p3-customer-clustering |
-| Github |  |
+| Github | https://github.com/2024200/Project_3_test/blob/1d799c4bf551a465d4c9935d019226bddd052d9c/Customer_Clustering_Model.ipynb |
 | Tableau | https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link |
 
 ### Tech-stack + Libraries
@@ -42,6 +42,6 @@ Available at;
 
 ### EDA
 
-### [Seaborn Visualisations](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+### [Seaborn Visualisations](https://github.com/2024200/Project_3_test/tree/1d799c4bf551a465d4c9935d019226bddd052d9c/EDA)
 
 ### [Tableau Dashboard](https://public.tableau.com/views/P3_Customer_Clustering/SegmentCharacteristics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
